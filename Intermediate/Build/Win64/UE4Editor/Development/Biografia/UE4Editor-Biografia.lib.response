@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Biografia.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\digbo\OneDrive\Documents\Unreal Projects\Biografia\Intermediate\Build\Win64\BiografiaEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\digbo\OneDrive\Documents\Unreal Projects\Biografia\Intermediate\Build\Win64\UE4Editor\Development\Biografia\Biografia.cpp.obj"
+"C:\Users\digbo\OneDrive\Documents\Unreal Projects\Biografia\Intermediate\Build\Win64\UE4Editor\Development\Biografia\BiografiaGameMode.cpp.obj"
+"C:\Users\digbo\OneDrive\Documents\Unreal Projects\Biografia\Intermediate\Build\Win64\UE4Editor\Development\Biografia\BiografiaPawn.cpp.obj"
+"C:\Users\digbo\OneDrive\Documents\Unreal Projects\Biografia\Intermediate\Build\Win64\UE4Editor\Development\Biografia\Biografia.init.gen.cpp.obj"
+"C:\Users\digbo\OneDrive\Documents\Unreal Projects\Biografia\Intermediate\Build\Win64\UE4Editor\Development\Biografia\BiografiaGameMode.gen.cpp.obj"
+"C:\Users\digbo\OneDrive\Documents\Unreal Projects\Biografia\Intermediate\Build\Win64\UE4Editor\Development\Biografia\BiografiaPawn.gen.cpp.obj"
+"C:\Users\digbo\OneDrive\Documents\Unreal Projects\Biografia\Intermediate\Build\Win64\UE4Editor\Development\Biografia\Default.rc2.res"
+/OUT:"C:\Users\digbo\OneDrive\Documents\Unreal Projects\Biografia\Intermediate\Build\Win64\UE4Editor\Development\Biografia\UE4Editor-Biografia.lib"

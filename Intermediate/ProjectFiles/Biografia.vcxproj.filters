@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Biografia.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{8C849526-E009-4A3E-BCB9-DA6187F55EC0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Biografia.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BiografiaEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{C7C3CA97-2593-40BB-8E4F-99AAD9116127}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Biografia">
+      <UniqueIdentifier>{F334F5CA-BDC7-488B-AD53-5030ED480408}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Biografia\Biografia.Build.cs">
+      <Filter>Source\Biografia</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Biografia\Biografia.cpp">
+      <Filter>Source\Biografia</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Biografia\Biografia.h">
+      <Filter>Source\Biografia</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Biografia\BiografiaGameMode.cpp">
+      <Filter>Source\Biografia</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Biografia\BiografiaGameMode.h">
+      <Filter>Source\Biografia</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Biografia\BiografiaPawn.cpp">
+      <Filter>Source\Biografia</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Biografia\BiografiaPawn.h">
+      <Filter>Source\Biografia</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

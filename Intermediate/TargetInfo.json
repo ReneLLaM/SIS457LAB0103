@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Biografia",
+			"Path": "C:\\Users\\digbo\\OneDrive\\Documents\\Unreal Projects\\Biografia\\Source\\Biografia.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BiografiaEditor",
+			"Path": "C:\\Users\\digbo\\OneDrive\\Documents\\Unreal Projects\\Biografia\\Source\\BiografiaEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
